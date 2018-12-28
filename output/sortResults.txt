@@ -1,0 +1,10 @@
+SORTING RESULTS
+12500 Integers         Time in Miliseconds
+---------------
+                   Run 1    Run 2    Run 3   Average
+Bubble Sort        938.0    952.0    755.0     881.7
+Selection Sort     256.0    257.0    127.0     213.3
+Insertion Sort     384.0    254.0    254.0     297.3
+Merge Sort          10.0      3.0      3.0       5.3
+Shell Sort          12.0      1.0      0.0       4.3
+Quick Sort         164.0     82.0     73.0     106.3
